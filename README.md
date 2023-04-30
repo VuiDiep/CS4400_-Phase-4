@@ -1,5 +1,4 @@
-# CS4400_Phase4
-CS4400 - Intro to Database 
+
 -- RUNNING THE APP:
 	If you don't already have them, install Python 3.7, pip, mySQL Server and mySQL Workbench.
 
